@@ -7,7 +7,7 @@
 
 
 
- #### 🔭 I’m currently working at Nipoflex Emprestimos and studying at [Gama Academy] (https://www.gama.academy/gama-experience/desenvolvimento-full-stack) Gama XP #40  
+ #### 🔭 I’m currently working at Nipoflex Emprestimos and studying at [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack) Gama XP #40  
  
  #### 🌱 I’m currently learning React | MySQL  
  
