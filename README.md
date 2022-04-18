@@ -17,7 +17,7 @@
 
 
 
-***
+
 ## 📫 How to reach me:  
   
 
@@ -32,7 +32,7 @@
   
 
   
-***
+
 ## 🛠 &nbsp;Tech Stack  
 
 
